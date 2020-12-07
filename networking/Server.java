@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Server 
 { 
-	private Socket		 socket = null; 
+	private Socket socket = null; 
 	private ServerSocket server = null; 
 	private DataInputStream in	 = null; 
 
